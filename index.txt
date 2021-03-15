@@ -1,2 +1,2 @@
 <!Doctype html>
-<!-- Doctype é um DTD
+<!-- Doctype é um DTD>
